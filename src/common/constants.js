@@ -19,7 +19,7 @@ const PROFILE_IMAGE_NAME = 'profile.jpg';
 const DEVELOPER_NAME = 'Rahul Dubey';
 const DESIGNATION = 'Full Stack Mobile &\nWeb Developer';
 const INTRO =
-  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.";
+  "With over 5 years of experience in React, React Native, Node.js, and JavaScript, I'm passionate about bringing innovative ideas to life. I've had the privilege of developing multiple robust websites and mobile applications, continuously seeking to push the boundaries of what's possible in the digital world. My journey in software development has been driven by a love for creating new things and solving complex challenges. I'm excited to contribute my skills and expertise to your next project.";
 const INFO = [
   {
     label: 'Years of experience',
