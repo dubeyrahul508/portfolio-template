@@ -11,7 +11,7 @@ const CONTACTS = {
 
 const METADATA = {
   TITLE: 'Rahul Dubey: Mobile & Web developer',
-  DESCRIPTION: '',
+  DESCRIPTION: 'Portfolio of Rahul Dubey, Full Stack Developer with 7+ years experience building SaaS and mobile applications.',
 };
 
 const RESUME_FILE_NAME = 'Rahul_Dubey_Resume.pdf';
@@ -19,11 +19,13 @@ const PROFILE_IMAGE_NAME = 'profile.jpg';
 const DEVELOPER_NAME = 'Rahul Dubey';
 const DESIGNATION = 'Full Stack Mobile &\nWeb Developer';
 const INTRO =
-  "With over 5 years of experience in React, React Native, Node.js, and JavaScript, I'm passionate about bringing innovative ideas to life. I've had the privilege of developing multiple robust websites and mobile applications, continuously seeking to push the boundaries of what's possible in the digital world. My journey in software development has been driven by a love for creating new things and solving complex challenges. I'm excited to contribute my skills and expertise to your next project.";
+  `Full Stack Developer with 7+ years of experience building scalable SaaS and mobile platforms using React, Node.js, Ruby on Rails, and AWS.
+Skilled in integrating AI APIs (OpenAI, LanguageTool), developing dynamic PDF generation tools, and delivering business-impacting features through clean, test-driven code.
+I’m passionate about solving complex problems with scalable systems and thoughtful engineering.`;
 const INFO = [
   {
     label: 'Years of\nexperience',
-    value: '5+',
+    value: '7+',
   },
   {
     label: 'Projects completed',
